@@ -34,5 +34,8 @@
   },
   "Telegram-Rushi": {
     "rushiranpise/morphe-patches": "patches-1.20.0.mpp"
+  },
+  "YouTube": {
+    "anddea/revanced-patches": "patches-4.3.0-dev.2.mpp"
   }
 }
