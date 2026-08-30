@@ -9,7 +9,7 @@ Every APK/module is published with [GitHub build provenance attestations](https:
 ```  
 gh attestation verify <file> --repo andrewliang25/patched-apps  
 ```  
-Patches: anddea/patches-4.3.0-dev.2.mpp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.3.0-dev.2)
+Patches: anddea/patches-4.3.0-dev.4.mpp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.3.0-dev.4)
 
-CLI: MorpheApp/morphe-desktop-1.15.0-dev.2-all.jar    
+CLI: MorpheApp/morphe-desktop-1.15.0-dev.4-all.jar    
